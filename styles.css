@@ -1,0 +1,37 @@
+/* body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#header {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border: 1px solid #ccc;
+    font-size: 1.5em; /* 调整文字大小 */
+
+
+
+
+/* clean the underline */
+a {
+    text-decoration: none;
+}
+
+/*  */
+
+
+
+@font-face {
+    font-family: 'MouseFont';
+    src: url('https://cdn.glitch.global/3490dcca-0fa7-448d-bd0a-9262d7b87e86/mouse.otf?v=1702064290774') format('opentype');
+}
+
+body {
+    font-family: 'MouseFont', sans-serif;
+    font-size: 150%; /* 放大字体到150% */
+}
+
